@@ -21,4 +21,4 @@ Development environment:
 
 * Github: Post the code and share the repo link for the email addresss which is in the [Crew](https://github.com/crewdigi) github profile, we will take a look 
 * Target platform is one of the following:
-  * API
+  * API or graphql
