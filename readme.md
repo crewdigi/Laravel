@@ -5,6 +5,7 @@ Below is our coding challenge to keep things moving forward. Take your time to c
 Make an app written with Lumen or Laravel with the following features:
 
 * Design a database design to store user and tweet detais
+* Write test cases (Choose your freedom of choice)
 * Authenticate with Twitter OAuth
 * Display timeline or tweets (from current user and users that he/she follows)
 * Post tweet
